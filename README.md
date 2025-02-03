@@ -1,9 +1,11 @@
 ## Mora for your thoughts?
 
-Hallo there, I'm Issa! I'm a Statistics graduate who is currently learning certain programming languages.
+Hallo there, I'm Issa! I'm usually known as Chai or Lei in online spaces. I'm a Statistics graduate who is currently learning certain programming languages.
 
 - 😄 Pronouns: they/them, she/her
 - 🌱 I’m currently learning HTML, Javascript, CSS, and Python.
+- 🎮 I play video games most of the time! You can usually find me playing Honkai: Star Rail, VALORANT, League of Legends, Teamfight Tactics, Minecraft, Roblox, and Albion Online. Games are some of my major motivations to learn how to code. I have been learning how to create and work on mods for some games.
+- ✍ I am also a writer. I've been writing fanfiction and fiction since grade school.
 - 📫 How to reach me: lactosefree on Discord
 <!--
 **chailattei/chailattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
