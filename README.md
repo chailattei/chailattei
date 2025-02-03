@@ -1,5 +1,10 @@
-## Hi there 👋
+## Mora for your thoughts?
 
+Hallo there, I'm Issa! I'm a Statistics graduate who is currently learning certain programming languages.
+
+- 😄 Pronouns: they/them, she/her
+- 🌱 I’m currently learning HTML, Javascript, CSS, and Python.
+- 📫 How to reach me: lactosefree on Discord
 <!--
 **chailattei/chailattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
